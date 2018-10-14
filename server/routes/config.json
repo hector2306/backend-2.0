@@ -1,0 +1,7 @@
+{
+    "endpoint": "proyectomodular.cxyki2dcj42t.us-east-1.rds.amazonaws.com",
+    "user": "root",
+    "password": "rootroot",
+    "port": "3306",
+    "schema": "mydb"
+}
